@@ -180,38 +180,6 @@ src/
     └── EditorDemo.tsx       # 편집 데모 컴포넌트
 ```
 
-## 🔧 확장 가능성
-
-### 1. 추가 효과
-- 색상 보정 (Color Grading)
-- 오디오 이퀄라이저
-- 텍스트 오버레이
-- 모션 그래픽스
-
-### 2. 고급 기능
-- 멀티카메라 편집
-- 360도 비디오 지원
-- AI 기반 자동 편집
-- 실시간 협업
-
-### 3. 통합
-- 클라우드 스토리지 연동
-- 외부 미디어 라이브러리
-- 라이브 스트리밍
-- 소셜 미디어 직접 업로드
-
-## 🤝 기여하기
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 있습니다.
-
 ## 🙏 Acknowledgments
 
 - [Remotion](https://remotion.dev) - React 기반 비디오 제작 프레임워크
